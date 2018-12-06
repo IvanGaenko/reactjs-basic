@@ -1,0 +1,21 @@
+body {
+  background: linear-gradient(to left,#000428 ,#004e92);
+  color: #f8f8f8;
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+  color: #f8f8f8;
+  font-family: helvetica;
+}
+
+.hero-name,
+.hero-br {
+  text-align: center;
+}
+
+.hero-list {
+  border: solid 2px white;
+  list-style: none;
+}
